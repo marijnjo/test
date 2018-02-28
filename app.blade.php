@@ -36,12 +36,7 @@
     <div class="container">
         <div class="row text-center task-header">
             <h2>Task Manager v12.0</h2>
- 		<h3>
-<?php
-print "Internal Server IP: " .$_SERVER['SERVER_ADDR'];
-?>
-
-</h3>
+ 		<h3><?php print "Internal Server IP: " .$_SERVER['SERVER_ADDR'];?></h3>
 </div>
     </div>
     @yield('content')
