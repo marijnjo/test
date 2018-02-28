@@ -17,7 +17,7 @@
     <style>
         body {
             font-family: 'Lato';
-            background-color: #005427;
+            background-color: #696969;
         }
 
         .fa-btn {
@@ -31,7 +31,7 @@
     </style>
 </head>
 <body id="app-layout">
-<img src=nutanix.png>
+<img src=https://www.ict-partners.nl/sites/default/files/uploads/nutanix-logo.png>
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
