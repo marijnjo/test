@@ -31,6 +31,7 @@
     </style>
 </head>
 <body id="app-layout">
+<img src=nutanix.png>
     <div id="calmgb" class="calm-background"></div>
     <div class="container">
         <div class="row text-center task-header">
